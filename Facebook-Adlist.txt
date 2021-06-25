@@ -38,3 +38,10 @@ external-ort2-1.xx.fbcdn.net
 scontent-ort2-1.xx.fbcdn.net 
 edge-chat.facebook.com 
 scontent-mia3-1.xx.fbcdn.net
+scontent.ftpf1-1.fna.fbcdn.net
+chat-e2ee-mini.facebook.com
+gateway.facebook.com
+b-graph.facebook.com
+graph.fbpigeon.com
+edge-mqtt.facebook.com
+graph.facebook.com
