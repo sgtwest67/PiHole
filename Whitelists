@@ -1,0 +1,55 @@
+# Google Maps
+clients4.google.com
+clients2.google.com
+
+# Android Google Play Store
+android.clients.google.com
+
+# Google Keep
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+# Google Mail APIs
+googleapis.l.google.com
+
+# Android TV
+redirector.gvt1.com
+
+# Microsoft (Windows, Office, Skype, etc) Internet Connectivity
+www.msftncsi.com
+
+# Skype
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com	
+pricelist.skype.com	
+apps.skype.com	
+m.hotmail.com	
+sa.symcb.com	
+s1.symcb.com	
+s2.symcb.com	
+s3.symcb.com	
+s4.symcb.com	
+s5.symcb.com
+
+# Spotify iOS
+spclient.wg.spotify.com
+apresolve.spotify.com
+
+# Spotify TV
+api-tv.spotify.com
+
+# Lowes Checkout Android Application
+assets.adobedtm.com
+
+# Home Depot Checkout Andriod Application
+nexus.ensighten.com
+
+# USAA Documents
+datacloud.tealiumiq.com
+datacloud-us-east-1.tealiumiq.com
+mobileapps.usaa.com
+
+# OnXmaps
+(\.|^)smart$
+
