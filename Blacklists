@@ -1,0 +1,17 @@
+# Youtube Ads ### WORKS SOMETIMES
+(\.|^)googlevideo\.com$
+
+# Youtube
+.*youtu\.?be.*
+
+# Trackers
+www.mcam5ub8.com
+
+# TikTok
+(\.|^)tiktok$
+
+# Twitter
+(\.|^)twitter$
+
+# Tags
+tags.tiqcdn.com
