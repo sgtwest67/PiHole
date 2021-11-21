@@ -1,0 +1,26 @@
+# Steven Black's Master Blocker
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Porn Site Blockers
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+
+# TikTok Blocker
+https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
+
+# Twitter Blocker
+https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-twitter.txt
+
+# Facebook Blocker
+https://raw.githubusercontent.com/imkarthikk/pihole-facebook/master/pihole-facebook.txt
+
+# Facebook Ads Blocker ##### WORKS SOMETIMES
+https://raw.githubusercontent.com/sgtwest67/PiHole/main/Facebook-Adlist.txt
+
+# Adware Blocker
+https://adaway.org/hosts.txt
+
+# Anti-Malware Blocker
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+
+# YouTube Blocker
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
